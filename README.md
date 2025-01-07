@@ -1,3 +1,5 @@
+Note: To View the graphs, download the html file.  
+
 # Analysis of the Agricultural Dataset using Plotly
 
 The code include a detail analysis of the data taken from the open source website Kaggle (https://www.kaggle.com/datasets/arifmia/agricultural-land-suitability-and-soil-quality?resource=download).  
